@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Git Book 가이드](README.md)
+* [Week01 프론트엔드 개발 환경](README.md)

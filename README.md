@@ -1,6 +1,2 @@
----
-description: Git Book을 적극 활용해보자.
----
-
-# Git Book 가이드
+# Week01 프론트엔드 개발 환경
 
